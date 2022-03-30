@@ -30,7 +30,7 @@ SECRET_KEY = '+%x!1*l_rkzp1wc23=pyzrhmmvqq#9oq1z$8^#h*!p7^+1$c*u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['aimigunning.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
